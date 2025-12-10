@@ -1,0 +1,12 @@
+# Go build files
+/bin/
+/vendor/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# OS
+.DS_Store
