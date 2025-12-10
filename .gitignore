@@ -1,6 +1,10 @@
 # Go build files
 /bin/
 /vendor/
+/tmp/
+
+# Air
+build-errors.log
 
 # Environment
 .env
